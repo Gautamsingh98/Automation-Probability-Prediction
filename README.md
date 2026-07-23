@@ -52,11 +52,11 @@ The objective of this project is to estimate the **Automation Probability (2030)
 ## 📁 Repository Structure
 
 Automation-Probability-Prediction/
-│
-├── Automation_Probability_Prediction.ipynb
-├── AI_Impact_on_Jobs_2030.csv
-├── requirements.txt
-├── README.md
+  │
+  ├── Automation_Probability_Prediction.ipynb
+  ├── AI_Impact_on_Jobs_2030.csv
+  ├── requirements.txt
+  ├── README.md
 
 ## ⚙️ Installation
 
