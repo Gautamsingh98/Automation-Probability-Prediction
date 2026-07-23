@@ -62,7 +62,7 @@ Automation-Probability-Prediction/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/automation-probability-prediction.git
+git clone https://github.com/Gautamsingh98/automation-probability-prediction.git
 ```
 
 Install dependencies
