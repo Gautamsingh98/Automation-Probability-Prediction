@@ -56,6 +56,8 @@ Automation-Probability-Prediction/
   - AI_Impact_on_Jobs_2030.csv
   - requirements.txt
   - README.md
+  - .gitignore
+  - LICENSE
 
 ## ⚙️ Installation
 
