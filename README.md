@@ -57,7 +57,6 @@ Automation-Probability-Prediction/
   - requirements.txt
   - README.md
   - .gitignore
-  - LICENSE
 
 ## ⚙️ Installation
 
